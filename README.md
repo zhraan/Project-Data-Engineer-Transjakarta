@@ -107,9 +107,7 @@ The notebook includes 9 comprehensive visualizations:
 ├── Project_Data_Engineer_Transjakarta.pdf    # PDF export
 ├── Transjakarta - Public Transportation Transaction/
 │   └── dfTransjakarta180kRows.csv            # Raw dataset
-├── TransJakarta_Clean_Data.xlsx              # Cleaned data (generated)
 ├── TransJakarta_Export.sql                   # SQL export (generated)
-├── Instruction Project Data Engineer.docx    # Project instructions
 └── README.md
 ```
 
