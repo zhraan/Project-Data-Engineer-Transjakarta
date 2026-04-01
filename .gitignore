@@ -1,0 +1,24 @@
+# Large export files (too big for GitHub)
+TransJakarta_Clean_Data.xlsx
+TransJakarta_Export.sql
+
+# Large dataset files (download from Kaggle)
+Transjakarta - Public Transportation Transaction/dfTransjakarta180kRows.csv
+Transjakarta - Public Transportation Transaction/dfTransjakarta.csv
+
+# Other project folders in this directory
+Financial Transactions Dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temp files
+*.tmp
+*.log
